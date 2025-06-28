@@ -1,9 +1,10 @@
 
+
 function App() {
 
   return (
     <>
-    heloo
+    <h1 className="text-primary">ola mundo!</h1>
     </>
   )
 }
